@@ -15,6 +15,6 @@ Html + Css + Bootstrap 5
 
 site: https://receitasdochefinho.vercel.app/
 
-![screen1](https://github.com/cleytonmuto/mundo-2-missao-pratica-1/assets/12730298/2c461243-7130-4dba-ac29-ce39faa1c961)
-![screen2](https://github.com/cleytonmuto/mundo-2-missao-pratica-1/assets/12730298/1b73ea90-acc7-441a-b32d-ed42881697e0)
-![screen3](https://github.com/cleytonmuto/mundo-2-missao-pratica-1/assets/12730298/b34fe3fb-1a3f-4184-bfed-331f85f1e55f)
+![image](https://user-images.githubusercontent.com/12730298/255947917-2c461243-7130-4dba-ac29-ce39faa1c961.png)
+![image](https://user-images.githubusercontent.com/12730298/255948499-1b73ea90-acc7-441a-b32d-ed42881697e0.png)
+![image](https://user-images.githubusercontent.com/12730298/255948540-b34fe3fb-1a3f-4184-bfed-331f85f1e55f.png)
