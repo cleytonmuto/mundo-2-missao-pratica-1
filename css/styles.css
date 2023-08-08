@@ -26,6 +26,10 @@ nav {
     height: 60px !important;
 }
 
+header {
+    height: 60 px !important;
+}
+
 main {
     height: calc(100vh -100px) !important;
 }
@@ -33,15 +37,15 @@ main {
 footer {
     background-color: var(--container-color);
     color: var(--primary-color);
+    height: 25px !important;
     font-weight: bold;
-    position: fixed;
-    text-align: center;
+    margin: 0;
+    bottom: 0;
 }
 
 .rodape {
-    margin: 0;
-    bottom: 0;
-    height: 25px !important;
+    position: fixed;
+    text-align: center;
     width: 100%;
 }
 
@@ -78,6 +82,10 @@ footer {
 .text-container p {
     font-size: 1.5em !important;
     text-align: left;
+}
+
+.vertical-center {
+    vertical-align: middle;
 }
 
 @media (max-width: 912px) {
